@@ -29,7 +29,7 @@ export default function Home() {
 
         <div className="hero-image">
           <Image
-            src="/images/hero.jpg"
+            src="/imagess/hero.jpg"
             alt="Hero Image"
             fill
             priority
